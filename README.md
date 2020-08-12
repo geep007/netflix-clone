@@ -1,6 +1,6 @@
 # Netflix Clone using React
 
-[Live](https://netflix-clone-geet.netlify.app/)
+## [Live](https://netflix-clone-geet.netlify.app/)
 
 ### DEMO
 
