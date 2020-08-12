@@ -4,7 +4,7 @@
 
 ### DEMO
 
-![Netflix-clone](https://drive.google.com/file/d/1LicYpXbYx2ftuWTCkCSsyfn9HbaS-Cv3/view?usp=sharing)
+![Netflix-clone](https://github.com/geep007/netflix-clone/blob/master/Netflix-clone.PNG?raw=true)
 
 
 
